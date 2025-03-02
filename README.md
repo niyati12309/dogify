@@ -1,7 +1,4 @@
 # dogify
 
-<video width="600" controls>
-  <source src="code crushers.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://github.com/username/repo/blob/main/path/to/codecrushers.mp4)
 
