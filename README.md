@@ -1,2 +1,3 @@
 # dogify
-<video src="code crushers.mp4" controls width="600"></video>
+<video src="code crushers.mov" controls width="600"></video>
+
